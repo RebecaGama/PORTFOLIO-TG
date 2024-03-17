@@ -1,9 +1,8 @@
 # Rebeca Gama Moraes
-
 <div align="justify">
  <h3 align="left">Introdução </h3>
  <div style="display: inline_block">
-    <img align="right" src="https://github.com/RebecaGama/PORTFOLIO-TG/blob/main/rebeca.png" height="250">
+    <img align="right" src="https://github.com/RebecaGama/PORTFOLIO-TG/blob/main/rebeca.png" height="200">
   <div>
   Estudante no 5° período do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal.
   Minha jornada acadêmica tem sido marcada por uma paixão pela tecnologia e pelo desenvolvimento web.
@@ -12,7 +11,7 @@
   <br><br>
   Minha trajetória profissional começou quando ingressei como estagiária na M&F Comércio e Serviços de Informática em Julho de 2023. Essa oportunidade me permitiu aplicar minhas habilidades front-end em um ambiente de trabalho prático, além de expandir meus conhecimentos em uma área que tanto me interessa.
   <br><br>
-  Este repositório tem como objetivo centralizar e documentar todos os projetos de API (Aprendizagem por Projetos Integrados) realizados ao longo do curso de Análise e Desenvolvimento de Sistemas. Até o momento, contribuí para o desenvolvimento de quatro projetos, entregando um a cada semestre.
+  Este repositório tem como objetivo documentar todos os projetos de API (Aprendizagem por Projetos Integrados) realizados ao longo do curso de Análise e Desenvolvimento de Sistemas.
   <br><br>
  </div>
 
@@ -24,13 +23,15 @@
  ##
  
 <h3 align="left"> 	Projetos </h3> 
+
+> _Selecione uma opção para direcionar à pasta referente à entrega._
+
 <div align="left">
   
  |   API  |    Descrição    |
  | :---         | :---      |
  | [1° Semestre](https://github.com/RebecaGama/PORTFOLIO-TG/tree/main/API01)   | Website para catalogar vagas |
 
-> _Selecione uma opção para direcionar à pasta referente à entrega._
  
 </div>
 
