@@ -34,7 +34,7 @@ https://github.com/RebecaGama/PORTFOLIO-TG/assets/102360635/fbec9bd7-b1c4-4cb1-b
  - Linguagem HTML e CSS
  - Uso do framework Bootstrap
  - Apresentação via Github
- - O sistema web deverá ter no mínimo 5 páginas (Página principal do projeto, Vagas de Emprego, Cursos e Certificações, Métricas (conhecimentos necessários, habilidades e requisitos) e Localização (vagas e cursos)
+ - O sistema web deve ter no mínimo 5 páginas (Página principal do projeto, Vagas de Emprego, Cursos e Certificações, Métricas (conhecimentos necessários, habilidades e requisitos) e Localização (vagas e cursos)
 
 **Não Funcionais:**<br>
  - GitHub
@@ -49,7 +49,7 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
   - **CSS3:** Estilização o site;
   - **JavaScript:** Animações e interações com o usuário, como os botões;
   - **Bootstrap:** Desenvolvimento de componentes;
-  - **Matplotlib:** Criação de gráficos;
+  - **Matplotlib:** Criação de gráficos com a linguagem de programação Python;
   - **Flask:** Gerenciamento de rotas e requisições HTTP;
   - **Figma:** Criação do protótipo navegável;
   - **Canva:** Edição das imagens e criação das apresentações;
