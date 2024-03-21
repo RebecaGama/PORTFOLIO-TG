@@ -5,7 +5,7 @@
     <img align="right" src="https://github.com/RebecaGama/PORTFOLIO-TG/blob/main/rebeca.png" height="200">
   <div>
   Estudante no 5° período do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal.
-  Minha jornada acadêmica tem sido marcada por uma paixão pela tecnologia e pelo desenvolvimento web.
+  Minha jornada acadêmica tem sido marcada por uma paixão pelo desenvolvimento web.
   <br><br>
   Durante o ensino médio, iniciei no mundo da tecnologia ao cursar o ETIM de Desenvolvimento de Sistemas na ETEC Machado de Assis - Caçapava, onde pude ter meu primeiro contato com a programação.
   <br><br>
