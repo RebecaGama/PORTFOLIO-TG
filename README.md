@@ -24,13 +24,13 @@
  
 <h3 align="left"> 	Projetos </h3> 
 
-> _Selecione uma opção para direcionar à pasta referente à entrega._
+> _Selecione para direcionar à pasta referente à entrega._
 
 <div align="left">
   
  |   API  |    Descrição    |
  | :---         | :---      |
- | [1° Semestre](https://github.com/RebecaGama/PORTFOLIO-TG/tree/main/API01)   | Website para catalogar vagas |
+ | [1° Semestre](https://github.com/RebecaGama/PORTFOLIO-TG/tree/main/API01)   | Website para catalogar vagas de emprego |
 
  
 </div>
