@@ -60,7 +60,7 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto desempenhei o papel como Scrum-master, auxiliando a equipe durante o desenvolvimento e liderando o planejamento desde a construção do backlog até a documentação das entregas nas sprints, além de monitorar o desempenho do grupo por meio de gráficos burndown e relatórios de dailys. Além da gestão ágil, participei ativamente do projeto, com foco principalmente no desenvolvimento front-end do website.
+Neste projeto desempenhei o papel como Scrum-master, auxiliando a equipe durante o desenvolvimento e liderando o planejamento desde a construção do backlog até a documentação das entregas nas sprints, além de monitorar o desempenho do grupo por meio de gráficos burndown e relatórios de dailys. Ademais, participei ativamente do desenvolvimento do website.
 <div>
 
 <br>
@@ -80,5 +80,4 @@ Neste projeto desempenhei o papel como Scrum-master, auxiliando a equipe durante
 ## Soft Skills
  - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints; <br>
  - **Organização:** Montagem de documentações e planejamento das entregas; <br>
- - **Criatividade:** Ajudei na criação do protótipo de maneira ativa; <br>
  - **Liderança:** Delegação de tarefas, acompanhamento e planejamento de produtividade da equipe. <br>
