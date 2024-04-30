@@ -60,7 +60,7 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto desempenhei o papel como Scrum-master, auxiliando a equipe durante o desenvolvimento e liderando o planejamento desde a construção do backlog até a documentação das entregas nas sprints, além de monitorar o desempenho do grupo por meio de gráficos burndown e relatórios de dailys. Ademais, participei ativamente do desenvolvimento do website.
+Neste projeto desempenhei o papel como Scrum-master, auxiliando a equipe durante o desenvolvimento e liderando o planejamento desde a construção do backlog até a documentação das entregas nas sprints, além de monitorar o desempenho do grupo por meio de gráficos burndown e relatórios de dailies. Ademais, participei ativamente do desenvolvimento do website.
 <div>
 
 <br>
