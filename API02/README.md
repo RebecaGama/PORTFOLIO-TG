@@ -13,7 +13,7 @@
 <div align="justify">
   Parceiro acadêmico: TrackCash
   <br><br>
-  O tema desenvolvido envolve vendedores de lojas online e físicas. Para realizar nosso processo de conciliação financeira, precisamos das informações dessas vendas. Para isso, os vendedores precisam configurar seus dados, concedendo autorização para que nossos sistemas acessem APIs e planilhas de forma automatizada. Essas autorizações são concedidas por meio da recepção de tokens e usuários de acesso. Portanto, o sistema em questão será responsável por armazenar essas informações de usuário/senha e tokens.
+  O tema desenvolvido envolve vendedores de lojas online e físicas. Para realizar o processo de conciliação financeira, precisa-se das informações dessas vendas. Para isso, os vendedores configuram seus dados, concedendo autorização para que o sistema acesse APIs e planilhas de forma automatizada. Essas autorizações são concedidas por meio da recepção de tokens e usuários de acesso.
   <br><br>
 <div><br>
   
@@ -21,9 +21,7 @@
 
 <br>
 
-
 https://github.com/RebecaGama/PORTFOLIO-TG/assets/102360635/39cdabaf-5fd5-4889-84af-fe3940180556
-
 
 > Projeto finalizado.
 
@@ -48,8 +46,8 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 <br>
   - **Discord:** Para reuniões;
   - **WhatsApp:** Para troca de mensagens e avisos;
-  - **Java:** Animações e interações com o usuário, como os botões;
-  - **MySQL:** Desenvolvimento de componentes;
+  - **Java:** Linguagem de programação para todo o desenvolvimento;
+  - **MySQL:** Armazenamento e manipulação de dados;
   - **Figma:** Criação do protótipo navegável;
   - **Canva:** Edição das imagens e criação das apresentações;
   - **Github:** Controle de versão;
@@ -59,7 +57,7 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto desempenhei o papel como desenvolvedora atuando na construção das interfaces e no desenvolvimento do front-end da aplicação. Como responsável pela parte das interfaces do projeto, contribuí com a criação, aprimoração e desenvolvimento das telas da aplicação em HTML/CSS ao longo das sprints.
+Neste projeto, atuei como desenvolvedora, desempenhando o papel na construção das interfaces e no desenvolvimento do front-end da aplicação. Como responsável pela parte de interfaces do projeto, contribuí com a criação, aprimoramento e desenvolvimento das telas da aplicação ao longo das sprints.
 <div>
 
 <br>
@@ -72,6 +70,6 @@ Neste projeto desempenhei o papel como desenvolvedora atuando na construção da
   - **Controle de versão com o Github:** Sei fazer com autonomia.
 
 ## Soft Skills
- - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints; <br>
- - **:** ; <br>
- - **:** ; <br>
+ - **Comunicação:** Comunicação com toda a equipe, expondo com clareza as minhas ideais; <br>
+ - **Planejamento:** Gerenciamento das entregas de cada sprint, entregando minhas tarefas no prazo; <br>
+ - **Proatividade:** Proatividade para aprender a linguagem de programação nova e realizar as tarefas com êxito. <br>
