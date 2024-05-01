@@ -9,7 +9,7 @@
   <br><br>
   Durante o ensino médio, iniciei no mundo da tecnologia ao cursar o ETIM de Desenvolvimento de Sistemas na ETEC Machado de Assis - Caçapava, onde pude ter meu primeiro contato com a programação.
   <br><br>
-  Minha trajetória profissional começou quando ingressei como estagiária na M&F Comércio e Serviços de Informática em Julho de 2023. Essa oportunidade me permitiu aplicar minhas habilidades front-end em um ambiente de trabalho prático, além de expandir meus conhecimentos em uma área que tanto me interessa.
+  Minha trajetória profissional começou quando ingressei como estagiária em Julho de 2023. Essa oportunidade me permitiu aplicar minhas habilidades front-end em um ambiente de trabalho prático, além de expandir meus conhecimentos em uma área que tanto me interessa.
   <br><br>
   Este repositório tem como objetivo documentar todos os projetos de API (Aprendizagem por Projetos Integrados) realizados ao longo do curso de Análise e Desenvolvimento de Sistemas.
   <br><br>
