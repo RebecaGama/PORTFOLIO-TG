@@ -21,7 +21,7 @@
 
 <br>
 
-![download](https://github.com/RebecaGama/PORTFOLIO-TG/assets/102360635/399d58b9-2cb5-4da7-9f9a-7a390924d02e)
+https://github.com/RebecaGama/PORTFOLIO-TG/assets/102360635/b4a9f310-257e-4996-87cb-bfea26736df0
 
 > Projeto finalizado.
 
