@@ -57,7 +57,7 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto, atuei como desenvolvedora, desempenhando o papel na construção das interfaces e no desenvolvimento do front-end da aplicação. Como responsável pela parte de interfaces do projeto, contribuí com a criação, aprimoramento e desenvolvimento das telas da aplicação ao longo das sprints.
+Neste projeto, atuei como desenvolvedora, desempenhando o papel na construção das interfaces e no desenvolvimento do front-end da aplicação. Como responsável pela parte de interfaces do projeto, contribuí com a criação, aprimoramento e desenvolvimento das telas da aplicação ao longo das sprints. Tive também contribuições no desenvolvimento backend, na implementação de algumas das funções do projeto.
 <div>
 
 <br>
