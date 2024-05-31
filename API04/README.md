@@ -98,6 +98,6 @@ Neste projeto, atuei como Product Owner, compreendendo as necessidades do client
 
 
 ## Soft Skills
- - **Comunicação:** Comuniquei-me de forma clara e assertiva com o time dev, Scrum Master e o cliente; <br>
- - **Criatividade:** Contribuí para a criação do protótipo de maneira criativa e ativa; <br>
- - **Negociação:** Utilizei habilidades de negociação ao lidar com o cliente, identificando claramente os pontos que poderíamos atender e propondo mudanças de forma estratégica para alcançar soluções mutuamente benéficas.<br>
+ - **Comunicação:** Mantive uma comunicação clara e assertiva com o time de desenvolvimento, o Scrum Master e o cliente, garantindo que todos estivessem alinhados quanto aos objetivos e expectativas do projeto. Utilizei reuniões regulares e ferramentas de comunicação eficazes para facilitar o fluxo de informações; <br>
+ - **Criatividade:** Contribuí de maneira criativa e ativa para a criação do protótipo, sugerindo soluções; <br>
+ - **Negociação:** Utilizei habilidades de negociação ao interagir com o cliente, identificando claramente os pontos que poderíamos atender e propondo mudanças estratégicas. Busquei sempre alcançar soluções mutuamente benéficas, garantindo a satisfação do cliente e o sucesso do projeto.<br>
