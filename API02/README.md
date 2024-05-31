@@ -57,7 +57,7 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto, atuei como desenvolvedora, desempenhando o papel na construção das interfaces e no desenvolvimento do front-end da aplicação. Como responsável pela parte de interfaces do projeto, contribuí com a criação, aprimoramento e desenvolvimento das telas da aplicação ao longo das sprints. Tive também contribuições no desenvolvimento backend, na implementação de algumas das funções do projeto.
+Neste projeto, atuei como desenvolvedora, focando na construção das interfaces e no desenvolvimento do front-end da aplicação. Utilizei a interface NetBeans para compor visualmente o sistema de forma agradável. Como responsável pela parte de interfaces do projeto, contribuí para a criação, aprimoramento e desenvolvimento das telas da aplicação ao longo das sprints. Além disso, participei do desenvolvimento backend, implementando algumas funções do projeto com Java.
 <div>
 
 <br>
@@ -70,6 +70,6 @@ Neste projeto, atuei como desenvolvedora, desempenhando o papel na construção 
   - **Controle de versão com o Github:** Sei fazer com autonomia.
 
 ## Soft Skills
- - **Comunicação:** Comunicação com toda a equipe, expondo com clareza as minhas ideais; <br>
- - **Planejamento:** Gerenciamento das entregas de cada sprint, entregando minhas tarefas no prazo; <br>
- - **Proatividade:** Proatividade para aprender a linguagem de programação nova e realizar as tarefas com êxito. <br>
+ - **Comunicação:** Mantive uma comunicação eficaz com toda a equipe, utilizando ferramentas de colaboração como Discord e WhatsApp para compartilhar atualizações de progresso e feedback; <br>
+ - **Planejamento:** Gerenciei as entregas de cada sprint utilizando a metodologia agil Scrum. Criei e mantive um cronograma detalhado de tarefas, definindo prioridades e estimativas de tempo para cada atividade. Ajustando o planejamento conforme necessário para assegurar a entrega pontual das minhas responsabilidades; <br>
+ - **Proatividade:** Demonstrei proatividade ao aprender uma nova linguagem de programação, buscando recursos educacionais. Apliquei imediatamente o conhecimento adquirido nas tarefas do projeto, garantindo a realização eficiente das atividades designadas. <br>
