@@ -65,7 +65,7 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 <div align="justify">
-Neste projeto, atuei como desenvolvedora, focando na construção das interfaces e no desenvolvimento do front-end da aplicação. Como responsável pela parte de interfaces, participei ativamente na criação, aprimoramento e desenvolvimento das telas ao longo das sprints, além de contribuir para a criação do protótipo.
+Neste projeto, atuei como desenvolvedora, focando na construção das interfaces e no desenvolvimento do front-end da aplicação com JavaScript. Como responsável pelas interfaces, participei ativamente da criação, aprimoramento e desenvolvimento das telas ao longo das sprints, incluindo telas de login e cadastro. Contribuí também para a criação do protótipo.
 
 <div>
 
@@ -83,6 +83,6 @@ Neste projeto, atuei como desenvolvedora, focando na construção das interfaces
 
 
 ## Soft Skills
- - **Criatividade:** Ajudei na criação do protótipo de maneira criativa e ativa; <br>
- - **Organização:** Demonstrei habilidade em autogerenciamento para cumprir minhas responsabilidades e colaborar com as entregas de cada sprint;<br>
- - **Colaboração:** Contribuí com tudo o que estava ao meu alcance, compartilhando o conhecimento que possuía, incluindo as tecnologias que dominava. <br>
+ - **Criatividade:** Contribuí de maneira criativa e ativa na criação do protótipo, sugerindo soluções para problemas de design e funcionalidade; <br>
+ - **Organização:** Demonstrei habilidades de autogerenciamento ao cumprir minhas responsabilidades de forma eficiente e colaborar com as entregas de cada sprint. Mantive minhas tarefas organizadas e assegurei que todas as entregas fossem realizadas dentro dos prazos estabelecidos;<br>
+ - **Colaboração:** Contribuí de maneira significativa para a equipe, compartilhando meu conhecimento. Participei de reuniões para ajudar a resolver problemas técnicos e oferecer suporte aos colegas. <br>
