@@ -22,6 +22,9 @@
 <br>
 
 
+https://github.com/RebecaGama/PORTFOLIO-TG/assets/102360635/e33b7c1e-3fb6-4763-bd61-a95aac0a03b0
+
+
 > Projeto em Desenvolvimento.
 
 <br>
@@ -78,6 +81,6 @@ Neste projeto, desempenhei o papel de Product Owner, focando na compreensão das
 
 
 ## Soft Skills
- - 
- - 
- - 
+ - **Resolução de Problemas:** Enfrentei e resolvi problemas técnicos e de processo de forma eficiente. Quando surgiam obstáculos, investigava a causa raiz, colaborava com a equipe para desenvolver soluções e implementava essas soluções, minimizando o impacto no cronograma do projeto;
+- **Adaptabilidade:** Demonstrei flexibilidade e capacidade de adaptação a mudanças inesperadas no projeto. Quando houve alterações nos requisitos ou surgiram novas prioridades, ajustei as tarefas e prioridades conforme necessário, mantendo a eficiência e a qualidade do trabalho;
+ - **Empatia:** Demonstrei empatia ao entender as necessidades, desejos e frustrações dos usuários finais do produto. Utilizei esse entendimento para priorizar efetivamente o backlog do produto, garantindo que as funcionalidades mais importantes e de maior valor fossem entregues primeiro.
