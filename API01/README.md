@@ -78,6 +78,6 @@ Neste projeto desempenhei o papel como Scrum-master, auxiliando a equipe durante
 
 
 ## Soft Skills
- - **Comunicação:** Comunicação de forma clara e assertiva para passar os feedbacks aos colegas de equipe e para as apresentações das sprints; <br>
- - **Organização:** Montagem de documentações e planejamento das entregas; <br>
- - **Liderança:** Delegação de tarefas, acompanhamento e planejamento de produtividade da equipe. <br>
+ - **Comunicação:** Mantive uma comunicação clara e assertiva ao fornecer feedback aos colegas de equipe e durante as apresentações das sprints; <br>
+ - **Organização:** Elaborei documentações detalhadas e planejei as entregas de forma estruturada. Criei cronogramas precisos para manter toda a documentação organizada e acessível para a equipe; <br>
+ - **Liderança:** Assumi a responsabilidade pela delegação de tarefas, acompanhando o progresso e planejando a produtividade da equipe. Facilitei reuniões de planejamento e revisão, garantindo que cada membro tivesse clareza sobre suas responsabilidades e prazos, e ofereci suporte para remover impedimentos e maximizar a eficiência da equipe. <br>
