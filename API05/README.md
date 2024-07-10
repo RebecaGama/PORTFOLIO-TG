@@ -22,10 +22,10 @@
 <br>
 
 
-https://github.com/RebecaGama/PORTFOLIO-TG/assets/102360635/e33b7c1e-3fb6-4763-bd61-a95aac0a03b0
+https://github.com/RebecaGama/PORTFOLIO-TG/assets/102360635/c12d2a8e-6270-45e7-b2b9-0471c20378a4
 
 
-> Projeto em Desenvolvimento.
+> Projeto finalizado.
 
 <br>
   
