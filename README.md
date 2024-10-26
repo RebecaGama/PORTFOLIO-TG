@@ -4,7 +4,7 @@
  <div style="display: inline_block">
     <img align="right" src="https://github.com/RebecaGama/PORTFOLIO-TG/blob/main/rebeca.png" height="200">
   <div>
-  Estudante no 5° período do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal.
+  Estudante no 6° período do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal.
   Minha jornada acadêmica tem sido marcada por uma paixão pelo desenvolvimento web.
   <br><br>
   Durante o ensino médio, iniciei no mundo da tecnologia ao cursar o ETIM de Desenvolvimento de Sistemas na ETEC Machado de Assis - Caçapava, onde pude ter meu primeiro contato com a programação.
@@ -35,6 +35,7 @@
  | [3° Semestre](https://github.com/RebecaGama/PORTFOLIO-TG/tree/main/API03)   | Serviço de Gerenciamento e Autenticação de Usuários |
  | [4° Semestre](https://github.com/RebecaGama/PORTFOLIO-TG/tree/main/API04)   | Plataforma de Gestão de Créditos para Reciclagem de Óleo |
  | [5° Semestre](https://github.com/RebecaGama/PORTFOLIO-TG/tree/main/API05)   | Sistema de Gestão de Parceiros |
+ | [6° Semestre](https://github.com/RebecaGama/PORTFOLIO-TG/tree/main/API06)   | Sistema para acompanhamento de serviços com Análise de Dados |
  
 </div>
 
@@ -46,5 +47,6 @@
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"> 
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" target="_blank">
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" target="_blank">
