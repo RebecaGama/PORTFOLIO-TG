@@ -11,7 +11,7 @@
 ## Sobre o projeto 
 
 <div align="justify">
-  Parceiro acadêmico: FATEC São José dos Campos - SP
+  Parceiro acadêmico: Professor Antônio Egydio - FATEC São José dos Campos - SP
   <br><br>
   O tema desenvolvido foi a criação de um Website para automatizar o processo de catalogar vagas de diversas profissões principalmente TI - FINDAT - configuração de métricas para pontos como tipos de conhecimento, habilidades e competências. 
   <br><br>
