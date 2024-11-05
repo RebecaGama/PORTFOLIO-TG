@@ -13,10 +13,23 @@
 <div align="justify">
   Parceiro acadêmico: TrackCash
   <br><br>
-  O tema desenvolvido envolve vendedores de lojas online e físicas. Para realizar o processo de conciliação financeira, precisa-se das informações dessas vendas. Para isso, os vendedores configuram seus dados, concedendo autorização para que o sistema acesse APIs e planilhas de forma automatizada. Essas autorizações são concedidas por meio da recepção de tokens e usuários de acesso.
-  <br><br>
-<div><br>
-  
+    A TrackCash é uma plataforma que integra dados de vendas de lojas online e físicas, permitindo a conciliação financeira    eficiente entre as transações realizadas e os registros contábeis.
+    <br>
+  O projeto desenvolvido envolve um sistema que facilita o processo de conciliação financeira para vendedores de lojas       online e físicas. Para realizar essa conciliação, é necessário acessar as informações das vendas, que geralmente são         distribuídas em diferentes fontes como APIs e planilhas. Esses dados precisam ser coletados de maneira automatizada para     garantir precisão e eficiência no processo. 
+  <br>
+    Para isso, os vendedores devem configurar suas informações no sistema e conceder autorizações de acesso. A autorização é   feita através da recepção de tokens e usuários de acesso, permitindo que o sistema se conecte automaticamente às fontes de   dados e realize a coleta das informações necessárias para o processo de conciliação.
+  <br>
+<div>
+
+#### Problemas
+  Automatização da Coleta de Dados: A coleta manual de dados de vendas era ineficiente e propensa a erros, uma vez que envolvia múltiplas fontes (APIs, planilhas, etc.), dificultando a sincronização dos dados financeiros.
+  <br>
+  Gestão de Autorização e Acesso: Os vendedores precisavam de um meio seguro e eficiente para fornecer as permissões de acesso às suas informações financeiras.
+  <br>
+  Integração entre Sistemas Diferentes: Como os dados estavam espalhados por diferentes plataformas (online, físicas, APIs, planilhas), a integração desses sistemas era um desafio.
+  <br>
+<div>
+
 > [Repositório oficial do projeto](https://github.com/atomofatec/API-TRACKCASH).
 
 <br>
