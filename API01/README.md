@@ -13,10 +13,24 @@
 <div align="justify">
   Parceiro acadêmico: Professor Antônio Egydio - FATEC São José dos Campos - SP
   <br><br>
-  O tema desenvolvido foi a criação de um Website para automatizar o processo de catalogar vagas de diversas profissões principalmente TI - FINDAT - configuração de métricas para pontos como tipos de conhecimento, habilidades e competências. 
+  A proposta do projeto foi o desenvolvimento de um Website voltado para a automação do processo de catalogação de vagas de emprego, com foco principal em áreas de Tecnologia da Informação (TI). O sistema, denominado *FINDAT*, visa fornecer métricas detalhadas relacionadas aos tipos de conhecimento, habilidades e competências exigidas pelas vagas, ajudando tanto empresas quanto candidatos a entenderem as demandas do mercado de trabalho.
   <br><br>
-  Visualmente deveria conter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação. Além de no mínimo 5 páginas.
+  O projeto visava também tornar o sistema visualmente atrativo e funcional, com gráficos e métricas estratégicas que facilitassem a compreensão dos dados sobre o mercado de TI. Além disso, o website deveria ser intuitivo, garantindo facilidade de uso e operação, com um layout que fosse acessível tanto para empresas quanto para os candidatos às vagas. O site seria composto por, no mínimo, 5 páginas, que incluiriam informações detalhadas sobre as vagas, filtros de pesquisa, gráficos de desempenho e seções de análise de tendências do mercado.
 <div><br>
+
+#### Problemas
+
+- **Falta de Centralização das Vagas**: O processo de busca e catalogação de vagas de TI era manual e descentralizado, o que tornava difícil para as empresas e candidatos encontrarem informações atualizadas e precisas.
+- **Dificuldade de Análise de Requisitos**: Muitas vagas exigem uma combinação complexa de conhecimentos e habilidades, o que dificultava a identificação rápida das qualidades necessárias para os candidatos, além da análise dos requisitos por parte das empresas.
+- **Usuabilidade e Acessibilidade**: A falta de uma interface amigável tornava a navegação nos sites de vagas mais lenta e trabalhosa, principalmente para usuários que não são familiarizados com plataformas de recrutamento.
+  
+#### Soluções
+
+- **Automatização e Centralização de Vagas**: O website FINDAT foi desenvolvido para integrar dados de diversas fontes de vagas de TI, centralizando todas as ofertas em um único local. Isso proporcionou uma experiência mais ágil tanto para empresas quanto para candidatos.
+  
+- **Desenvolvimento de Métricas e Filtros Avançados**: A equipe implementou filtros de busca avançados que permitem aos candidatos e recrutadores buscar vagas por critérios específicos, como competências técnicas, experiência e localização. Além disso, foi criado um sistema de métricas para analisar os requisitos das vagas e compará-los com o perfil dos candidatos, permitindo uma melhor correspondência entre oferta e demanda.
+
+- **Melhoria da Interface e Usabilidade**: A interface foi projetada de forma a ser visualmente clara e intuitiva, com a inclusão de gráficos que mostram as tendências de habilidades e competências mais buscadas no mercado de TI.
   
 > [Repositório oficial do projeto](https://github.com/atomofatec/API-FINDAT).
 
