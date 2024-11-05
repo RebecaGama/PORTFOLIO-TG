@@ -5,7 +5,6 @@
   <a href ="#tecnologias-utilizadas"> Tecnologias Utilizadas </a>  •
   <a href ="#contribuições-pessoais"> Contribuições Pessoais </a>  
 </p>
-
 <br>
 
 ## Sobre o projeto 
@@ -13,10 +12,29 @@
 <div align="justify">
   Parceiro acadêmico: Visiona
   <br><br>
-  O projeto consiste em um Sistema de Gerenciamento de Usuários, acompanhado de um serviço de autenticação/autorização. Este serviço será implementado utilizando a tecnologia de microserviços e fazendo uso dos recursos e ferramentas disponíveis na Google Cloud Platform (GCP). Serão empregados containers e a implementação será feita em uma esteira de CI/CD (Integração Contínua/Entrega Contínua). O sistema será desenvolvido seguindo as boas práticas de Desenvolvimento Orientado a Objetos, como SOLID, Clean Code e Clean Architecture. Além disso, serão implementados testes unitários e de integração para garantir a qualidade da entrega. A cobertura de código deverá ser de pelo menos 80%, e será validada pelo SONAR ou outra ferramenta de análise escolhida. O sistema deverá possuir uma interface para gerenciamento de usuários, permitindo a criação, visualização, edição e remoção dos mesmos, bem como a atribuição de permissões para cada usuário.
-  
+  O projeto tem como objetivo o desenvolvimento de um Sistema de Gerenciamento de Usuários, com um serviço robusto de autenticação e autorização. A solução será implementada utilizando a arquitetura de microserviços, aproveitando a infraestrutura e as ferramentas disponíveis na Google Cloud Platform (GCP). A implementação será feita através de containers, com integração e entrega contínuas utilizando uma esteira de CI/CD (Integração Contínua/Entrega Contínua).
+  <br><br>
+  Durante o desenvolvimento, serão seguidas as melhores práticas de Desenvolvimento Orientado a Objetos (OOP), com foco em princípios como SOLID, Clean Code e Clean Architecture, garantindo a manutenção e escalabilidade do sistema. Além disso, serão realizados testes unitários e de integração, com o objetivo de assegurar a qualidade da entrega, e a cobertura de código deverá ser de pelo menos 80%, validada por ferramentas de análise de código, como o SONAR ou outra ferramenta equivalente.
+  <br><br>
+  O sistema contará com uma interface para gerenciamento de usuários, permitindo funcionalidades como a criação, visualização, edição e remoção de usuários, além da atribuição de permissões específicas a cada usuário, conforme as necessidades da aplicação.
 <div><br>
+
+#### Problemas
+
+- **Gestão Manual de Usuários**: A gestão de usuários era realizada manualmente, o que gerava inconsistências, dificuldades de controle e aumento do risco de erros na atribuição de permissões.
+- **Segurança e Autenticação**: A falta de um sistema estruturado de autenticação e autorização criava vulnerabilidades, especialmente em ambientes com diferentes níveis de acesso e permissões entre os usuários.
+- **Escalabilidade e Manutenção**: O sistema não era escalável nem fácil de manter, o que dificultava a adaptação às necessidades crescentes da organização e a aplicação de atualizações constantes.
+
+#### Soluções
+
+- **Automatização e Centralização do Gerenciamento de Usuários**: A implementação de um sistema baseado em microserviços, com containers, permitiu uma gestão centralizada e automatizada dos usuários. Cada ação, como a criação, edição ou remoção de usuários, foi automatizada, eliminando inconsistências e facilitando o controle.
   
+- **Segurança Reforçada com Autenticação e Autorização**: Foi integrado um serviço de autenticação/autorização robusto, utilizando padrões modernos de segurança, como **OAuth** e **JWT**. Isso garantiu que somente usuários autorizados tivessem acesso às funcionalidades do sistema, com permissões específicas definidas de acordo com o perfil de cada um.
+
+- **Escalabilidade e Manutenção com Microserviços**: Ao adotar a arquitetura de microserviços e containers, o sistema se tornou escalável e de fácil manutenção. Cada componente foi isolado e pode ser modificado ou atualizado independentemente, sem impactar outros módulos do sistema.
+
+- **Qualidade e Confiabilidade com Testes e CI/CD**: A equipe implementou testes unitários e de integração, garantindo que as funcionalidades do sistema estivessem sempre funcionando corretamente. O uso de uma esteira de CI/CD assegurou entregas contínuas e rápidas, com alta qualidade de código validada por ferramentas de análise.
+
 > [Repositório oficial do projeto](https://github.com/atomofatec/API-VISIONA).
 
 <br>
