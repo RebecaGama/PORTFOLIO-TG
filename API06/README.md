@@ -5,7 +5,6 @@
   <a href ="#tecnologias-utilizadas"> Tecnologias Utilizadas </a>  •
   <a href ="#contribuições-pessoais"> Contribuições Pessoais </a>  
 </p>
-
 <br>
 
 ## Sobre o projeto 
@@ -14,9 +13,23 @@
   Parceiro acadêmico: Dom Rock
   <br><br>
   
-Este projeto visa o desenvolvimento de uma solução de chatbot inteligente utilizando IA generativa, com o objetivo de analisar e responder a comentários de clientes sobre a experiência de compra em e-commerce. Por meio da aplicação de técnicas de processamento de linguagem natural e machine learning, o chatbot é capaz de extrair insights valiosos sobre pontos de melhoria e destaques, baseando-se em um conjunto de dados públicos com milhares de depoimentos de clientes. A interface é desenvolvida como uma aplicação web de página única (SPA) com Vue.js, garantindo uma experiência interativa e amigável.
-
+  A Dom Rock é uma empresa focada em soluções de inteligência de dados e analytics para melhorar a tomada de decisão em diversas indústrias. Este projeto acadêmico visa desenvolver um **chatbot inteligente utilizando IA generativa**, com o objetivo de analisar e responder a comentários de clientes sobre suas experiências de compra em plataformas de e-commerce. A solução foi implementada aplicando técnicas de processamento de linguagem natural (NLP) e machine learning para extrair insights a partir de depoimentos de clientes, usando um conjunto de dados públicos com milhares de avaliações.
+  
 <div><br>
+
+#### Problemas
+
+- **Dificuldade na Análise Manual de Feedbacks em Grande Escala**: O volume de comentários de clientes dificultava o processo de análise manual, tornando inviável identificar rapidamente áreas de melhoria e destaques no serviço.
+- **Tempo de Resposta aos Clientes**: A ausência de uma solução automatizada limitava a capacidade da equipe de responder de forma eficiente, impactando a experiência e satisfação dos clientes.
+- **Falta de Insights Aprofundados para Melhorias**: A análise manual de feedbacks não oferecia insights detalhados e rápidos o suficiente para apoiar decisões estratégicas de melhorias no atendimento e na experiência de compra.
+
+#### Soluções
+
+- **Automatização da Análise de Feedback com IA Generativa**: Utilizamos um chatbot baseado em IA generativa que analisa automaticamente os comentários dos clientes. Essa automação permite uma identificação rápida de padrões e áreas de interesse, destacando pontos fortes e áreas que precisam de atenção.
+  
+- **Processamento de Linguagem Natural para Identificação de Sentimento e Temas**: Com técnicas de NLP, o chatbot consegue classificar comentários por sentimento (positivo, negativo, neutro) e identificar temas recorrentes. Isso permite um mapeamento mais detalhado da experiência do cliente.
+  
+- **Interface Intuitiva em SPA com Vue.js**: A equipe desenvolveu uma aplicação web usando Vue.js, proporcionando uma interface interativa e amigável para visualização dos insights extraídos.
   
 > [Repositório oficial do projeto](https://github.com/atomofatec/API-DOMROCK).
 
