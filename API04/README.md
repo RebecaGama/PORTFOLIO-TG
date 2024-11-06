@@ -8,14 +8,36 @@
 
 <br>
 
+Para melhorar o texto e incluir os pontos mencionados no feedback, vou seguir o exemplo correto, incorporando a área de atuação, os problemas identificados antes da solução, e explicando como sua equipe resolveu esses problemas. Veja abaixo como poderia ficar:
+
+---
+
 ## Sobre o projeto 
 
 <div align="justify">
   Parceiro acadêmico: Greenneat
   <br><br>
-  O projeto visa abordar a questão do baixo índice de reciclagem de óleo vegetal no Brasil, estimado em apenas 2% do total consumido. Esse descarte é geralmente realizado por restaurantes e coletado por cooperativas ou profissionais individuais, sendo encaminhado para usinas de produção de biodiesel. O Sistema Circular de Produção de Saneantes a partir de Óleo Recuperado propõe envolver os diversos agentes da cadeia de descarte e reciclagem do óleo de fritura usado. O principal desafio consiste em desenvolver uma plataforma que gerencie créditos atribuídos aos parceiros da Greenneat, responsáveis pela coleta nos estabelecimentos cadastrados. Esses créditos poderão ser posteriormente utilizados na compra de saneantes na loja virtual, incentivando a reciclagem do óleo e promovendo a sustentabilidade ambiental.
-  
+  O projeto tem como objetivo desenvolver um **Sistema Circular de Produção de Saneantes a partir de Óleo Recuperado**. A Greenneat atua no setor ambiental, focando na reciclagem e reaproveitamento de resíduos para promover a sustentabilidade. O projeto visa aumentar o índice de reciclagem de óleo vegetal no Brasil, atualmente em torno de 2%, ao criar um sistema que incentiva a coleta e destinação correta do óleo de fritura usado, normalmente descartado por restaurantes e coletado por cooperativas ou profissionais individuais.
+  <br><br>
+  A plataforma proposta gerenciará um sistema de créditos, atribuídos aos parceiros que coletam óleo nos estabelecimentos cadastrados. Esses créditos poderão ser utilizados na compra de saneantes na loja virtual, criando um ciclo sustentável e incentivando o descarte responsável do óleo, que será encaminhado para a produção de produtos de limpeza.
+
 <div><br>
+
+#### Problemas
+
+- **Baixo Índice de Reciclagem de Óleo Vegetal**: Apenas uma pequena fração do óleo consumido no Brasil é reciclada, devido à falta de incentivos claros e à ausência de uma infraestrutura que facilite a coleta e o reaproveitamento.
+- **Descarte Inadequado por Estabelecimentos**: Muitos restaurantes descartam o óleo de forma inadequada, poluindo o meio ambiente e contribuindo para problemas de saneamento.
+- **Incentivo Limitado à Participação**: A falta de recompensas palpáveis desencoraja os estabelecimentos a participar ativamente do processo de coleta e reciclagem.
+
+#### Soluções
+
+- **Sistema de Créditos para Estabelecimentos e Parceiros de Coleta**: Desenvolvemos uma plataforma que gera e gerencia créditos atribuídos aos parceiros da Greenneat que coletam o óleo dos estabelecimentos cadastrados. Esse sistema de créditos é uma recompensa direta, que os estabelecimentos podem usar para adquirir saneantes na loja virtual da Greenneat, criando um incentivo financeiro para a reciclagem.
+  
+- **Centralização e Automação do Gerenciamento de Coleta**: A equipe implementou funcionalidades para monitorar e organizar as coletas de óleo, automatizando o registro de dados como volume coletado e locais de coleta, o que facilitou a logística para todos os agentes envolvidos na cadeia de reciclagem.
+  
+- **Integração da Sustentabilidade no Processo**: A plataforma promove a sustentabilidade ambiental ao garantir que o óleo reciclado seja encaminhado para a produção de saneantes. Isso fecha um ciclo sustentável, transformando o óleo descartado em produtos de limpeza, reduzindo o impacto ambiental do descarte inadequado.
+
+- **Facilidade de Acesso e Engajamento com Interface Web**: Para simplificar o uso, o sistema foi projetado com uma interface web intuitiva, acessível aos parceiros de coleta e estabelecimentos cadastrados. Isso facilita a adesão e aumenta a transparência do processo de coleta e destinação final do óleo.
   
 > [Repositório oficial do projeto](https://github.com/atomofatec/API-GREENNEAT).
 
