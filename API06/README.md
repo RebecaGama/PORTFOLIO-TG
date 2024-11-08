@@ -83,4 +83,11 @@ Neste projeto, atuei como desenvolvedora
   - **Controle de versão com Github:** Sei fazer com autonomia.
 
 ## Soft Skills
- - 
+**Resolução de Problemas**  
+O projeto envolveu desafios técnicos, como a integração de diferentes tecnologias e a necessidade de otimizar o processo de análise de grandes volumes de dados. Um dos maiores desafios foi garantir que o modelo de IA generativa conseguisse processar os feedbacks de forma eficiente, considerando a variabilidade das opiniões dos clientes. Para resolver isso, buscamos alternativas e ajustamos parâmetros para melhorar a precisão na classificação de sentimentos e temas.
+
+**Gestão de Tempo e Priorização**  
+A gestão eficiente do tempo foi crucial para que as diferentes etapas do projeto fossem concluídas dentro do cronograma. Como as funcionalidades eram desenvolvidas simultaneamente, foi necessário priorizar as tarefas com base no impacto delas para o projeto. Por exemplo, enquanto o modelo de IA estava sendo treinado, trabalhei na interface do usuário para garantir que a aplicação web estivesse pronta para visualizar os insights assim que o processamento de dados fosse concluído. Essa abordagem permitiu que cumpríssemos os prazos estipulados e entregássemos versões funcionais ao longo do processo.
+
+**Adaptabilidade e Aprendizado Contínuo**  
+Durante o projeto, precisei aprender rapidamente sobre novas ferramentas e conceitos, como o uso de FAISS para bancos de dados vetoriais e o aprimoramento de técnicas de NLP para analisar comentários de clientes. Além disso, a integração do chatbot exigiu que eu me adaptasse a diferentes tecnologias.
