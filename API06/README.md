@@ -75,8 +75,12 @@ Neste projeto, atuei como desenvolvedora
 <br>
 
 ## Hard Skills
-  - 
-
+  - **Dominio de Python:** Sei fazer com auxílio de consultas;
+  - **Uso do Vue.js:** Sei fazer com autonomia;
+  - **Utilização de FAISS:** Sei fazer com auxílio de consultas;
+  - **Criação de Wireframe com Figma:** Sei fazer com autonomia;
+  - **Edição de imagens com Canva:** Sei fazer com autonomia;
+  - **Controle de versão com Github:** Sei fazer com autonomia.
 
 ## Soft Skills
  - 
