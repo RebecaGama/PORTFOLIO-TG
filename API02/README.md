@@ -69,9 +69,16 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 <br>
 
 ## Contribuições Pessoais
-<div align="justify">
-Neste projeto, atuei como desenvolvedora, focando na construção das interfaces e no desenvolvimento do front-end da aplicação. Utilizei a interface NetBeans para compor visualmente o sistema de forma agradável. Como responsável pela parte de interfaces do projeto, contribuí para a criação, aprimoramento e desenvolvimento das telas da aplicação ao longo das sprints. Além disso, participei do desenvolvimento backend, implementando algumas funções do projeto com Java.
-<div>
+**Desenvolvimento de Interfaces e Front-End**  
+Atuei como desenvolvedora responsável pela construção das interfaces da aplicação, utilizando o NetBeans para criar telas visualmente atraentes e funcionais. Uma das principais funcionalidades que desenvolvi foi a *página de cadastro de usuário*, onde implementei a validação de dados de entrada, assegurando que as informações fossem corretamente processadas antes do envio. Além disso, participei ativamente da criação da *página de configurações de conta*, que permitiu aos usuários gerenciar suas preferências e dados pessoais de forma intuitiva e segura.
+
+Durante o projeto, também trabalhei no desenvolvimento de funcionalidades de *configurações ativas* e *configurações de canais*, onde fui responsável por integrar essas opções com o backend em Java. Essa integração me permitiu aprimorar a experiência do usuário e a performance do sistema.
+
+**Colaboração no Backend**  
+Embora meu foco tenha sido no front-end, também participei do desenvolvimento de algumas funcionalidades no backend utilizando Java. Em particular, implementei funções relacionadas à persistência de dados e interações com o banco de dados, como a *atualização de configurações de usuários* e *salvamento de preferências*.
+
+**Controle de Versão e Atualizações no GitHub**  
+Para garantir o controle de versão adequado e a integração contínua do projeto, mantive as atualizações regulares no GitHub. Isso incluiu commits frequentes para registrar as mudanças nas funcionalidades.
 
 <br>
 
@@ -83,6 +90,11 @@ Neste projeto, atuei como desenvolvedora, focando na construção das interfaces
   - **Controle de versão com o Github:** Sei fazer com autonomia.
 
 ## Soft Skills
- - **Comunicação:** Mantive uma comunicação eficaz com toda a equipe, utilizando ferramentas de colaboração como Discord e WhatsApp para compartilhar atualizações de progresso e feedback; <br>
- - **Planejamento:** Gerenciei as entregas de cada sprint utilizando a metodologia agil Scrum. Criei e mantive um cronograma detalhado de tarefas, definindo prioridades e estimativas de tempo para cada atividade. Ajustando o planejamento conforme necessário para assegurar a entrega pontual das minhas responsabilidades; <br>
- - **Proatividade:** Demonstrei proatividade ao aprender uma nova linguagem de programação, buscando recursos educacionais. Apliquei imediatamente o conhecimento adquirido nas tarefas do projeto, garantindo a realização eficiente das atividades designadas. <br>
+**Comunicação**  
+Minha habilidade de comunicação foi fundamental em momentos de conflito ou desacordo dentro da equipe. Por exemplo, durante uma sprint, houve um desacordo entre os membros do time. Para resolver a situação, organizamos uma reunião para ouvir as opiniões de todos, conseguimos alinhar as expectativas e definir uma nova estratégia.
+
+**Planejamento e Gestão de Tempo**  
+Utilizei a metodologia ágil Scrum para organizar as entregas do projeto. Durante as sprints, fui responsável por planejar e gerenciar o tempo dedicado às minhas tarefas. Por exemplo, criei um cronograma detalhado para cada etapa das minhas tarefas, com prazos realistas baseados na complexidade do trabalho. Quando houve um imprevisto e a entrega atrasou devido a mudanças de requisitos, ajustei o cronograma e replanejei as atividades, garantindo que o atraso não afetasse outras partes do projeto.
+
+**Proatividade e Aprendizado Contínuo**  
+Demonstrei proatividade ao aprender Java, uma linguagem que não dominava inicialmente. Identifiquei que essa habilidade seria essencial para o desenvolvimento do backend e, por isso, busquei cursos e materiais complementares. <br>
