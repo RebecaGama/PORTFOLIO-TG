@@ -73,9 +73,22 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 <br>
 
 ## Contribuições Pessoais
-<div align="justify">
-Neste projeto desempenhei o papel como Scrum-master, auxiliando a equipe durante o desenvolvimento e liderando o planejamento desde a construção do backlog até a documentação das entregas nas sprints, além de monitorar o desempenho do grupo por meio de gráficos burndown e relatórios de dailies. Ademais, participei ativamente do desenvolvimento do website.
-<div>
+
+**Scrum Master e Desenvolvimento no Projeto FINDAT**  
+No projeto FINDAT, além de atuar ativamente no desenvolvimento do website, assumi o papel de Scrum Master, minhas contribuições específicas incluem:
+
+- **Planejamento e Condução do Backlog:** Estruturei o backlog do projeto, organizando e priorizando as histórias de usuário de acordo com o impacto e a viabilidade técnica.
+
+- **Monitoramento do Progresso com Gráficos Burndown:** Utilizei gráficos burndown para monitorar o progresso do trabalho durante cada sprint, identificando gargalos e ajustando o planejamento conforme necessário. 
+
+- **Relatórios Diários (Dailies):** Facilitei reuniões diárias para acompanhar o progresso de cada membro, identificar impedimentos e garantir a colaboração e a transparência entre todos. Isso ajudou a equipe a superar desafios e a manter o foco nas prioridades.
+
+- **Documentação e Organização das Entregas:** Criei documentações detalhadas das funcionalidades entregues e das decisões tomadas durante o projeto, garantindo que todas as informações estivessem organizadas e acessíveis para futuras consultas pela equipe.
+
+- **Desenvolvimento do Protótipo do Website:** Defini a estrutura de navegação e disposição das funcionalidades essenciais para uma experiência de usuário intuitiva.
+- **Estrutura da Página de Localização:** Construi a página de localização, integrando APIs de mapeamento para exibir pontos de interesse de forma precisa e visual.
+- **Catalogação de Cursos e Configuração de Métricas:** Desenvolvi a página de métricas para auxiliar candidatos a monitorarem seu progresso em competências exigidas.
+- **Atualização de Gráficos e Mapas:** Implementei gráficos interativos que se atualizam automaticamente, proporcionando uma visualização dinâmica para os usuários.
 
 <br>
 
@@ -90,8 +103,9 @@ Neste projeto desempenhei o papel como Scrum-master, auxiliando a equipe durante
 - **Edição de imagens com Canva:** Sei fazer com autonomia; <br>
 - **Controle de versão com o Github:** Sei fazer com auxílio de consultas. <br>
 
-
 ## Soft Skills
- - **Comunicação:** Mantive uma comunicação clara e assertiva ao fornecer feedback aos colegas de equipe e durante as apresentações das sprints; <br>
- - **Organização:** Elaborei documentações detalhadas e planejei as entregas de forma estruturada. Criei cronogramas precisos para manter toda a documentação organizada e acessível para a equipe; <br>
- - **Liderança:** Assumi a responsabilidade pela delegação de tarefas, acompanhando o progresso e planejando a produtividade da equipe. Facilitei reuniões de planejamento e revisão, garantindo que cada membro tivesse clareza sobre suas responsabilidades e prazos, e ofereci suporte para remover impedimentos e maximizar a eficiência da equipe. <br>
+- **Comunicação:** Em uma das sprints, enfrentei um conflito de opiniões entre membros sobre a abordagem para implementação de uma funcionalidade. Para resolver a situação, convoquei uma reunião onde cada um pôde expor suas razões. Ao facilitar o diálogo e expor os impactos de cada escolha, ajudamos a equipe a chegar a um consenso, garantindo que todos se sentissem ouvidos e motivados.
+
+- **Organização e Gestão do Tempo:** Em um momento do projeto, enfrentamos um imprevisto de mudança nos requisitos do cliente, o que exigiu uma readequação no cronograma. Criei um plano de ação para priorizar as entregas mais urgentes e redistribuí as tarefas, mantendo a equipe informada sobre os novos prazos e objetivos.
+
+- **Liderança e Proatividade:** Durante as revisões de sprint, identifiquei que alguns membros estavam enfrentando dificuldades técnicas com ferramentas. Organizei uma sessão de estudos, onde compartilhamos os conheimentos em equipe, proporcionando um ambiente de suporte para que todos pudessem aprimorar suas habilidades.
