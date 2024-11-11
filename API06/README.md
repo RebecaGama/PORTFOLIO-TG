@@ -67,8 +67,17 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 <br>
 
 ## Contribuições Pessoais
-<div align="justify">
-Neste projeto, atuei como desenvolvedora
+
+**Desenvolvimento de Interfaces e Visualização de Insights**  
+Neste projeto, atuei como desenvolvedora, Fui responsável pelo desenvolvimento da interface web interativa para o chatbot, utilizando Vue.js. Criei uma *estrutura visual organizada para a exibição de insights* gerados a partir dos comentários dos clientes, que tornaram a análise intuitiva e facilitada.
+
+Além disso, implementei as *requisições de API* (endpoints) diretamente no front-end para assegurar uma comunicação eficiente entre a interface e o backend, garantindo que os insights fossem carregados e atualizados em tempo real.
+
+**Testes de Modelos e Embeddings**  
+Realizei testes com diferentes modelos de geração de embeddings para melhorar a precisão do chatbot na análise de comentários. Esses testes incluíram ajustes na parametrização e análise de performance dos modelos no processamento de linguagem natural, garantindo uma categorização de sentimentos mais fiel e uma análise de temas mais rica.
+
+**Colaboração e Controle de Versão no GitHub**  
+Para manter a organização e facilitar a colaboração, utilizei o GitHub para o controle de versão, documentando cada etapa com commits frequentes e organizados. Isso permitiu que a equipe acompanhasse as mudanças e mantivesse a integração contínua do projeto.
 
 <div>
 
