@@ -22,13 +22,18 @@
 <div>
 
 #### Problemas
-  Automatização da Coleta de Dados: A coleta manual de dados de vendas era ineficiente e propensa a erros, uma vez que envolvia múltiplas fontes (APIs, planilhas, etc.), dificultando a sincronização dos dados financeiros.
-  <br>
-  Gestão de Autorização e Acesso: Os vendedores precisavam de um meio seguro e eficiente para fornecer as permissões de acesso às suas informações financeiras.
-  <br>
-  Integração entre Sistemas Diferentes: Como os dados estavam espalhados por diferentes plataformas (online, físicas, APIs, planilhas), a integração desses sistemas era um desafio.
-  <br>
-<div>
+
+- **Automatização da Coleta de Dados**: A coleta manual de dados de vendas era ineficiente e propensa a erros, uma vez que envolvia múltiplas fontes, dificultando a sincronização dos dados financeiros.
+- **Gestão de Autorização e Acesso**: Os vendedores precisavam de um meio seguro e eficiente para fornecer as permissões de acesso às suas informações financeiras.
+- **Integração entre Sistemas Diferentes**: Como os dados estavam espalhados por diferentes plataformas (online, físicas, APIs, planilhas), a integração desses sistemas era um desafio.
+
+#### Soluções
+
+- **Automatização da Coleta de Dados com Conexões API**: O sistema foi projetado para automatizar a coleta de dados de vendas através de integrações com APIs de diversas plataformas. Com o uso de tokens de autenticação e usuários configurados no sistema, a coleta das transações financeiras foi automatizada, evitando erros humanos e aumentando a eficiência.
+
+- **Gestão Segura de Autorização e Acesso**: Para garantir a segurança e eficiência no processo de autorização de acesso às informações financeiras, foi implementada uma solução baseada em autenticação via tokens. Através de um sistema de permissões, os vendedores podem configurar suas credenciais de acesso, garantindo que apenas usuários autorizados possam acessar e manipular as informações financeiras. Isso oferece maior controle e segurança no processo de conciliação.
+
+- **Integração de Sistemas e Dados Dispersos**: Para resolver o desafio da integração entre diferentes sistemas, o sistema foi construído para suportar múltiplas fontes de dados. Utilizando uma arquitetura orientada a serviços e um banco de dados relacional, foi possível consolidar os dados de vendas em uma plataforma única.
 
 > [Repositório oficial do projeto](https://github.com/atomofatec/API-TRACKCASH).
 
@@ -69,15 +74,13 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 <br>
 
 ## Contribuições Pessoais
-**Desenvolvimento de Interfaces e Front-End**  
-Atuei como desenvolvedora responsável pela construção das interfaces da aplicação, utilizando o NetBeans para criar telas visualmente atraentes e funcionais. Uma das principais funcionalidades que desenvolvi foi a *página de cadastro de usuário*, onde implementei a validação de dados de entrada, assegurando que as informações fossem corretamente processadas antes do envio. Além disso, participei ativamente da criação da *página de configurações de conta*, que permitiu aos usuários gerenciar suas preferências e dados pessoais de forma intuitiva e segura.
+  - **Desenvolvimento de Interfaces e Front-End**  
+Atuei como desenvolvedora responsável pela construção das interfaces da aplicação, utilizando o NetBeans para criar telas visualmente atraentes e funcionais. Uma das principais funcionalidades que desenvolvi foi a *página de cadastro de usuário*, onde implementei a validação de dados de entrada, assegurando que as informações fossem corretamente processadas antes do envio. Além disso, participei ativamente da criação da *página de configurações de conta*, que permitiu aos usuários gerenciar suas preferências e dados pessoais de forma intuitiva e segura. <br> Durante o projeto, também trabalhei no desenvolvimento de funcionalidades de *configurações ativas* e *configurações de canais*, onde fui responsável por integrar essas opções com o backend em Java. Essa integração me permitiu aprimorar a experiência do usuário e a performance do sistema.
 
-Durante o projeto, também trabalhei no desenvolvimento de funcionalidades de *configurações ativas* e *configurações de canais*, onde fui responsável por integrar essas opções com o backend em Java. Essa integração me permitiu aprimorar a experiência do usuário e a performance do sistema.
-
-**Colaboração no Backend**  
+  - **Colaboração no Backend**  
 Embora meu foco tenha sido no front-end, também participei do desenvolvimento de algumas funcionalidades no backend utilizando Java. Em particular, implementei funções relacionadas à persistência de dados e interações com o banco de dados, como a *atualização de configurações de usuários* e *salvamento de preferências*.
 
-**Controle de Versão e Atualizações no GitHub**  
+  - **Controle de Versão e Atualizações no GitHub**  
 Para garantir o controle de versão adequado e a integração contínua do projeto, mantive as atualizações regulares no GitHub. Isso incluiu commits frequentes para registrar as mudanças nas funcionalidades.
 
 <br>
@@ -90,11 +93,11 @@ Para garantir o controle de versão adequado e a integração contínua do proje
   - **Controle de versão com o Github:** Sei fazer com autonomia.
 
 ## Soft Skills
-**Comunicação**  
+  - **Comunicação**  
 Minha habilidade de comunicação foi fundamental em momentos de conflito ou desacordo dentro da equipe. Por exemplo, durante uma sprint, houve um desacordo entre os membros do time. Para resolver a situação, organizamos uma reunião para ouvir as opiniões de todos, conseguimos alinhar as expectativas e definir uma nova estratégia.
 
-**Planejamento e Gestão de Tempo**  
+  - **Planejamento e Gestão de Tempo**  
 Utilizei a metodologia ágil Scrum para organizar as entregas do projeto. Durante as sprints, fui responsável por planejar e gerenciar o tempo dedicado às minhas tarefas. Por exemplo, criei um cronograma detalhado para cada etapa das minhas tarefas, com prazos realistas baseados na complexidade do trabalho. Quando houve um imprevisto e a entrega atrasou devido a mudanças de requisitos, ajustei o cronograma e replanejei as atividades, garantindo que o atraso não afetasse outras partes do projeto.
 
-**Proatividade e Aprendizado Contínuo**  
+  - **Proatividade e Aprendizado Contínuo**  
 Demonstrei proatividade ao aprender Java, uma linguagem que não dominava inicialmente. Identifiquei que essa habilidade seria essencial para o desenvolvimento do backend e, por isso, busquei cursos e materiais complementares. <br>
