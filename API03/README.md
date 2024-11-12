@@ -82,10 +82,22 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 <br>
 
 ## Contribuições Pessoais
-<div align="justify">
-Neste projeto, atuei como desenvolvedora, focando na construção das interfaces e no desenvolvimento do front-end da aplicação com JavaScript. Como responsável pelas interfaces, participei ativamente da criação, aprimoramento e desenvolvimento das telas ao longo das sprints, incluindo telas de login e cadastro. Contribuí também para a criação do protótipo.
 
-<div>
+**Desenvolvimento de Interfaces e Front-End**  
+Atuei como desenvolvedora responsável pela construção das interfaces da aplicação, focando em usabilidade e clareza visual, com JavaScript. Durante o projeto, fui responsável pela criação e implementação das seguintes funcionalidades:
+
+- **Tela de Login:** Desenvolvi a tela de login, incluindo validações de autenticação, para garantir uma experiência segura e eficiente aos usuários no acesso à aplicação.
+- **Tela de Cadastro de Usuário:** Implementei a funcionalidade completa de cadastro de novos usuários, com validações de dados obrigatórios e de formato, assegurando que os dados fossem devidamente processados e armazenados.
+- **Tela de Edição de Usuário:** Criei uma interface de edição de usuários, permitindo que informações já registradas fossem modificadas de forma intuitiva e segura, com feedback visual para ações bem-sucedidas.
+- **Listagem de Usuários Cadastrados:** Desenvolvi uma tela de listagem, onde os usuários cadastrados são exibidos de forma organizada, incluindo opções de filtragem e ordenação para facilitar a navegação e o gerenciamento de dados.
+
+Além disso, colaborei na criação do protótipo visual das interfaces, garantindo que os elementos fossem consistentes com a identidade visual do projeto e contribuíssem para uma navegação intuitiva.
+
+**Colaboração no Backend**  
+Embora meu foco fosse no front-end, participei da integração de funcionalidades entre o front-end e o back-end. Contribuí especificamente na criação de endpoints para o cadastro e edição de usuários, garantindo que as interações entre as interfaces e o servidor ocorressem sem falhas.
+
+**Controle de Versão e Gestão no GitHub**  
+Mantenho o controle de versão e a gestão do código no GitHub, fazendo commits frequentes para registrar mudanças nas funcionalidades e assegurar que todas as atualizações fossem documentadas e rastreáveis para a equipe.
 
 <br>
 
