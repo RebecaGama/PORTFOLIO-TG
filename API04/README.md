@@ -97,10 +97,20 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 <br>
 
 ## Contribuições Pessoais
-<div align="justify">
-Neste projeto, atuei como Product Owner, compreendendo as necessidades do cliente e repassando-as ao time. Além disso, fui responsável pela definição e gerenciamento das user stories e do backlog, garantindo uma compreensão clara do MVP (Minimum Viable Product) de cada entrega. Trabalhei em estreita colaboração com o time de desenvolvimento para garantir que o trabalho estivesse alinhado com as necessidades do cliente e as prioridades do projeto. Além disso, participei ativamente do projeto, desde o desenvolvimento das interfaces da aplicação utilizando o Figma até a codificação front-end.
 
-<div>
+**Atuação como Product Owner**  
+Neste projeto, atuei como Product Owner, sendo responsável por entender as necessidades do cliente e traduzir essas demandas em requisitos claros para o time de desenvolvimento. Defini e gerenciei as *user stories* e o *backlog*, garantindo que cada entrega estivesse alinhada ao MVP (Minimum Viable Product) e atendesse às expectativas do cliente. Trabalhei em estreita colaboração com a equipe de desenvolvimento, assegurando que todas as atividades estivessem alinhadas com as prioridades e necessidades do projeto.
+
+**Desenvolvimento de Interfaces e Codificação Front-End**  
+Além das atividades de Product Owner, participei da concepção e desenvolvimento das interfaces no Figma e colaborei na implementação do front-end. Entre as funcionalidades específicas desenvolvidas estão:
+
+- **Cadastro do Parceiro Greenneat:** Criação e implementação do formulário de cadastro de parceiros, permitindo o registro dos estabelecimentos onde o óleo será coletado.
+  
+- **Sistema de Transação de Créditos Greenneat:** Desenvolvi a funcionalidade de transações de créditos no sistema, possibilitando que parceiros acompanhassem o saldo e o histórico de créditos relacionados à coleta de óleo.
+
+- **Painel do Usuário Parceiro:** Implementei o painel para parceiros, onde é possível visualizar o histórico e saldo de crédito, o volume de óleo coletado, e os créditos transferidos para estabelecimentos.
+
+- **Painel do Estabelecimento:** Criei um dashboard com rankings e relatórios específicos para os estabelecimentos, apresentando dados de coleta de óleo e desempenho, o que ajuda na tomada de decisões e no acompanhamento dos resultados.
 
 <br>
 
