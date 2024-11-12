@@ -127,11 +127,11 @@ Além das atividades de Product Owner, participei da concepção e desenvolvimen
 
 ## Soft Skills
 
-**Comunicação**  
+  - **Comunicação**  
 Durante uma fase crucial do projeto, percebi que alguns membros do time estavam com interpretações diferentes sobre as prioridades das entregas. Organizei uma reunião para alinhar esses pontos e esclarecer dúvidas, usando uma linguagem clara e exemplos práticos para facilitar a compreensão.
 
-**Criatividade**  
+  - **Criatividade**  
 Em uma situação onde enfrentamos um problema de usabilidade no protótipo, propus uma solução para reorganizar o layout e otimizar a experiência do usuário. Ao testar essa abordagem, conseguimos um feedback positivo, que demonstrou que a mudança havia facilitado a navegação e melhorado a percepção geral do produto.
 
-**Negociação**  
+  - **Negociação**  
 Em uma das reuniões com o cliente, surgiram novos requisitos que comprometeriam o cronograma inicial. Negociei para propor ajustes que pudessem atender a parte das novas demandas sem comprometer as entregas principais. Essa abordagem ajudou a equilibrar as necessidades do cliente e os recursos do projeto, garantindo um resultado satisfatório para ambos os lados. 
