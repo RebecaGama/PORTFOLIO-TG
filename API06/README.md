@@ -15,8 +15,8 @@
   
   A Dom Rock é uma empresa focada em soluções de inteligência de dados e analytics para melhorar a tomada de decisão em diversas indústrias. Este projeto acadêmico visa desenvolver um **chatbot inteligente utilizando IA generativa**, com o objetivo de analisar e responder a comentários de clientes sobre suas experiências de compra em plataformas de e-commerce. A solução foi implementada aplicando técnicas de processamento de linguagem natural (NLP) e machine learning para extrair insights a partir de depoimentos de clientes, usando um conjunto de dados públicos com milhares de avaliações.
   
-<div><br>
-
+<div>
+  
 #### Problemas
 
 - **Dificuldade na Análise Manual de Feedbacks em Grande Escala**: O volume de comentários de clientes dificultava o processo de análise manual, tornando inviável identificar rapidamente áreas de melhoria e destaques no serviço.
@@ -68,15 +68,14 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 
 ## Contribuições Pessoais
 
-**Desenvolvimento de Interfaces e Visualização de Insights**  
+  - **Desenvolvimento de Interfaces e Visualização de Insights**  
 Neste projeto, atuei como desenvolvedora, Fui responsável pelo desenvolvimento da interface web interativa para o chatbot, utilizando Vue.js. Criei uma *estrutura visual organizada para a exibição de insights* gerados a partir dos comentários dos clientes, que tornaram a análise intuitiva e facilitada.
-
 Além disso, implementei as *requisições de API* (endpoints) diretamente no front-end para assegurar uma comunicação eficiente entre a interface e o backend, garantindo que os insights fossem carregados e atualizados em tempo real.
 
-**Testes de Modelos e Embeddings**  
+  - **Testes de Modelos e Embeddings**  
 Realizei testes com diferentes modelos de geração de embeddings para melhorar a precisão do chatbot na análise de comentários. Esses testes incluíram ajustes na parametrização e análise de performance dos modelos no processamento de linguagem natural, garantindo uma categorização de sentimentos mais fiel e uma análise de temas mais rica.
 
-**Colaboração e Controle de Versão no GitHub**  
+  - **Colaboração e Controle de Versão no GitHub**  
 Para manter a organização e facilitar a colaboração, utilizei o GitHub para o controle de versão, documentando cada etapa com commits frequentes e organizados. Isso permitiu que a equipe acompanhasse as mudanças e mantivesse a integração contínua do projeto.
 
 <div>
@@ -92,11 +91,11 @@ Para manter a organização e facilitar a colaboração, utilizei o GitHub para 
   - **Controle de versão com Github:** Sei fazer com autonomia.
 
 ## Soft Skills
-**Resolução de Problemas**  
+  - **Resolução de Problemas**  
 O projeto envolveu desafios técnicos, como a integração de diferentes tecnologias e a necessidade de otimizar o processo de análise de grandes volumes de dados. Um dos maiores desafios foi garantir que o modelo de IA generativa conseguisse processar os feedbacks de forma eficiente, considerando a variabilidade das opiniões dos clientes. Para resolver isso, buscamos alternativas e ajustamos parâmetros para melhorar a precisão na classificação de sentimentos e temas.
 
-**Gestão de Tempo e Priorização**  
+  - **Gestão de Tempo e Priorização**  
 A gestão eficiente do tempo foi crucial para que as diferentes etapas do projeto fossem concluídas dentro do cronograma. Como as funcionalidades eram desenvolvidas simultaneamente, foi necessário priorizar as tarefas com base no impacto delas para o projeto. Por exemplo, enquanto o modelo de IA estava sendo treinado, trabalhei na interface do usuário para garantir que a aplicação web estivesse pronta para visualizar os insights assim que o processamento de dados fosse concluído. Essa abordagem permitiu que cumpríssemos os prazos estipulados e entregássemos versões funcionais ao longo do processo.
 
-**Adaptabilidade e Aprendizado Contínuo**  
+  - **Adaptabilidade e Aprendizado Contínuo**  
 Durante o projeto, precisei aprender rapidamente sobre novas ferramentas e conceitos, como o uso de FAISS para bancos de dados vetoriais e o aprimoramento de técnicas de NLP para analisar comentários de clientes. Além disso, a integração do chatbot exigiu que eu me adaptasse a diferentes tecnologias.
