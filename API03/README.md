@@ -101,6 +101,12 @@ Neste projeto, atuei como desenvolvedora, focando na construção das interfaces
 
 
 ## Soft Skills
- - **Criatividade:** Contribuí de maneira criativa e ativa na criação do protótipo, sugerindo soluções para problemas de design e funcionalidade; <br>
- - **Organização:** Demonstrei habilidades de autogerenciamento ao cumprir minhas responsabilidades de forma eficiente e colaborar com as entregas de cada sprint. Mantive minhas tarefas organizadas e assegurei que todas as entregas fossem realizadas dentro dos prazos estabelecidos;<br>
- - **Colaboração:** Contribuí de maneira significativa para a equipe, compartilhando meu conhecimento. Participei de reuniões para ajudar a resolver problemas técnicos e oferecer suporte aos colegas. <br>
+
+**Criatividade**  
+Durante o desenvolvimento do protótipo, enfrentei um desafio em que o design inicial não atendia às necessidades dos usuários. Sugeri uma abordagem criativa para melhorar a navegação, propondo uma reorganização dos elementos da interface e adicionando funcionalidades intuitivas. Esse ajuste ajudou a equipe a alcançar uma solução mais prática e visualmente atraente, alinhada às expectativas do cliente.
+
+**Organização**  
+Em uma das sprints, houve um imprevisto que impactou o cronograma do projeto. Adotei uma abordagem organizada para reestruturar as minhas tarefas prioritárias, ajustando prazos e definindo novas metas junto ao time. Esse esforço garantiu que conseguíssemos compensar o atraso sem comprometer a qualidade da entrega final.
+
+**Colaboração**  
+Durante um momento crítico do projeto, um colega enfrentava dificuldades técnicas que afetavam o progresso das entregas. Ofereci suporte realizando uma sessão conjunta de troubleshooting, compartilhando meu conhecimento sobre a ferramenta e ajudando a resolver o problema. Essa colaboração contribuiu para o sucesso da sprint e fortaleceu o trabalho em equipe. 
