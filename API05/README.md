@@ -78,10 +78,19 @@ Ao longo do projeto, foram trabalhados com as seguintes ferramentas:
 <br>
 
 ## Contribuições Pessoais
-<div align="justify">
-Neste projeto, desempenhei o papel de Product Owner, focando na compreensão das necessidades do cliente e na comunicação eficaz dessas necessidades para a equipe. Minha responsabilidade incluiu a definição e gestão das user stories e do backlog, garantindo uma compreensão precisa do MVP para cada entrega. Trabalhei em estreita colaboração com o time de desenvolvimento para assegurar que o trabalho estivesse alinhado com as prioridades do projeto e as expectativas do cliente. Além disso, participei ativamente do projeto, contribuindo para o design das interfaces da aplicação no Figma, bem como na codificação do front-end e back-end.
-  
-<div>
+
+Como Product Owner, fui responsável pela definição e gestão das user stories e do backlog, assegurando a clareza dos requisitos e do MVP para cada entrega. Colaborei de perto com o time de desenvolvimento para alinhar o trabalho às prioridades do cliente, além de contribuir para o design das interfaces no Figma e codificar funcionalidades no front e backend.
+
+Minhas contribuições específicas incluíram:
+
+- **Interface de Login**: Desenvolvi a interface com autenticação segura, onde implementei lógica para validação de credenciais e tratamento de erros, garantindo acesso seguro ao sistema.
+- **Modelagem BPMN**: Modelei os processos de negócio para mapear o fluxo de atividades e as interações dos usuários, facilitando o entendimento da equipe sobre os requisitos de cada módulo.
+- **Interface de Dashboard**: Criei uma página de indicadores de desempenho, onde implementei gráficos e métricas em tempo real, ajudando os usuários a monitorar a performance dos parceiros.
+- **Sistema de Edição e Exclusão de Administradores/Funcionários**: Desenvolvi uma funcionalidade para gestão de usuários do sistema, com controle de permissões e interface intuitiva para edição e exclusão.
+- **Interface de Tracks de Programa**: Criei uma página dedicada ao acompanhamento do progresso dos parceiros, com módulos de desenvolvimento de habilidades e conhecimento.
+- **Recuperação de Senha**: Desenvolvi um sistema para redefinição de senha com validação via e-mail.
+- **Botão de Exportação**: Implementei a funcionalidade de exportação de dados para planilhas, simplificando a análise externa dos dados do sistema.
+- **Mensagens e Alertas**: Configurei notificações automáticas e mensagens de alerta para ações sensíveis do usuário.
 
 <br>
 
@@ -97,6 +106,6 @@ Neste projeto, desempenhei o papel de Product Owner, focando na compreensão das
 
 
 ## Soft Skills
- - **Resolução de Problemas:** Enfrentei e resolvi problemas técnicos e de processo de forma eficiente. Quando surgiam obstáculos, investigava a causa raiz, colaborava com a equipe para desenvolver soluções e implementava essas soluções, minimizando o impacto no cronograma do projeto;
-- **Adaptabilidade:** Demonstrei flexibilidade e capacidade de adaptação a mudanças inesperadas no projeto. Quando houve alterações nos requisitos ou surgiram novas prioridades, ajustei as tarefas e prioridades conforme necessário, mantendo a eficiência e a qualidade do trabalho;
- - **Empatia:** Demonstrei empatia ao entender as necessidades, desejos e frustrações dos usuários finais do produto. Utilizei esse entendimento para priorizar efetivamente o backlog do produto, garantindo que as funcionalidades mais importantes e de maior valor fossem entregues primeiro.
+- **Comunicação e Resolução de Conflitos**: Em uma ocasião durante o projeto, houve um impasse sobre a implementação de um recurso prioritário. Conduzi uma reunião de alinhamento, ouvi as preocupações de todos e propus alternativas que conciliavam os objetivos. Conseguimos definir uma solução que beneficiou o time e atendeu às expectativas do cliente.
+- **Adaptabilidade**: Quando surgiu uma alteração de escopo no projeto com novas exigências de relatórios, adaptei o planejamento e priorizei a implementação dos relatórios no dashboard, garantindo a entrega sem comprometer outras funcionalidades.
+- **Empatia**: Na priorização do backlog, utilizei o feedback dos usuários para entender suas frustrações e necessidades, priorizando as funcionalidades mais importantes para uma experiência de uso otimizada.
