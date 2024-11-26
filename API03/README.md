@@ -7,17 +7,19 @@
 </p>
 <br>
 
-## Sobre o projeto 
+## Sobre o projeto
 
 <div align="justify">
   Parceiro acadêmico: Visiona
+  <br><br>
+  A Visiona é uma empresa de tecnologia que atua no desenvolvimento de soluções inovadoras para os setores aeroespacial, defesa e mobilidade, com foco em integrar sistemas e criar plataformas robustas que atendem a necessidades específicas de cada área.
   <br><br>
   O projeto tem como objetivo o desenvolvimento de um Sistema de Gerenciamento de Usuários, com um serviço robusto de autenticação e autorização. A solução será implementada utilizando a arquitetura de microserviços, aproveitando a infraestrutura e as ferramentas disponíveis na Google Cloud Platform (GCP). A implementação será feita através de containers, com integração e entrega contínuas utilizando uma esteira de CI/CD (Integração Contínua/Entrega Contínua).
   <br><br>
   Durante o desenvolvimento, serão seguidas as melhores práticas de Desenvolvimento Orientado a Objetos (OOP), com foco em princípios como SOLID, Clean Code e Clean Architecture, garantindo a manutenção e escalabilidade do sistema. Além disso, serão realizados testes unitários e de integração, com o objetivo de assegurar a qualidade da entrega, e a cobertura de código deverá ser de pelo menos 80%, validada por ferramentas de análise de código, como o SONAR ou outra ferramenta equivalente.
   <br><br>
   O sistema contará com uma interface para gerenciamento de usuários, permitindo funcionalidades como a criação, visualização, edição e remoção de usuários, além da atribuição de permissões específicas a cada usuário, conforme as necessidades da aplicação.
-<div><br>
+</div><br>
 
 #### Problemas
 
