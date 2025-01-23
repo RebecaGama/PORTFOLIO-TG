@@ -35,7 +35,9 @@
 
 <br>
 
-> Projeto em andamento.
+https://github.com/user-attachments/assets/e56e0dfe-c2bc-4e9c-a7a1-30edfb36dfa7
+
+> Projeto finalizado.
 
 <br>
   
